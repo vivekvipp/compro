@@ -36,6 +36,7 @@ public class Array_Manipulation {
             {
                 a[i]=0;
             }
+            //git_ke liye
             for(int i=0;i<m;i++)
             {
                 a[q.get(i).get(0)-1]+=q.get(i).get(2);
